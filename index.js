@@ -20,8 +20,6 @@
             
 			var $first = $div.first(); //找到第一个div元素
 			$first.css('color', 'red'); //给第一个元素设置颜色
-
-
     </script>
 	
 </body>
